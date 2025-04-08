@@ -87,9 +87,9 @@
 
 
 <p align="center">
-<a href="https://github.com/FeryaelJustice">
+<a href="https://github.com/jack-jimenez-dev/jack-jimenez-dev.git">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice)](#)
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-jimenez-dev)](#)
 
 </a>
 
@@ -126,7 +126,7 @@
   </a>
 </li>
 
-
+<!--
 <br>
 
 <li>
@@ -145,7 +145,7 @@
 	
 </ul>
 </div>
-
+-->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
