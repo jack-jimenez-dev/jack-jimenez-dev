@@ -6,7 +6,7 @@
 <!-- Efecto publicitario de palabras - frases desfilando -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer+-+Analista+Programador;Full+Stack+Developer;Curious+Mind+-+Always+Learning;Analytical+Thinker+-+Digital+Mindset;Risk+Taker+-+Innovative+Problem+Solver;Love+to+learn+new+stuffs...&hearts;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer+-+Analista+Programador;Full+Stack+Developer+-+FrontEnd+-+BackEnd;Curious+Mind+-+Always+Learning;Analytical+Thinker+-+Digital+Mindset;Risk+Taker+-+Innovative+Problem+Solver;Love+to+learn+new+stuffs...&hearts;">
   </a>
 </p>
 
