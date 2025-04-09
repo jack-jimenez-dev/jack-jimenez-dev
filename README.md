@@ -2,7 +2,7 @@
 <!-- Este es Título -->
 <h1 align="center">Hi , I'm Jack Jiménez ... <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpudXU4MzluMzkwY25wcW1sZHoxMmk2ZG90ODQzNjg4cXFwZDlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNo6CFc2WonYHntCO8/giphy.gif" width="35"></h1>
 
-<!-- Efecto publicitario de palabras - frases desfilando     GIFFFFFFFFFFFFFFFF   FFFFFFFFFFFFFFFFFFF-->
+<!-- Efecto publicitario de palabras - frases desfilando     GIFFFFFFFFFFFFFFFF   FFFFFFFFFFFFF     FFFFFF-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=25&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineer+-+Analista+Programador;Full+Stack+Developer+-+FrontEnd+-+BackEnd;Curious+Mind+-+Always+Learning;Analytical+Thinker+-+Digital+Mindset;Risk+Taker+-+Innovative+Problem+Solver;Love+to+learn+new+stuffs...&hearts;">
