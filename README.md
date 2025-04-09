@@ -2,23 +2,21 @@
 <!-- Este es Título -->
 <h1 align="center">Hi , I'm Jack Jiménez ... <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpudXU4MzluMzkwY25wcW1sZHoxMmk2ZG90ODQzNjg4cXFwZDlpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNo6CFc2WonYHntCO8/giphy.gif" width="35"></h1>
 
-
-<!-- Efecto publicitario de palabras - frases desfilando -->
+<!-- Efecto publicitario de palabras - frases desfilando     GIFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineer+-+Analista+Programador;Full+Stack+Developer+-+FrontEnd+-+BackEnd;Curious+Mind+-+Always+Learning;Analytical+Thinker+-+Digital+Mindset;Risk+Taker+-+Innovative+Problem+Solver;Love+to+learn+new+stuffs...&hearts;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&size=25&center=true&vCenter=true&width=600&height=50&lines=Systems+Engineer+-+Analista+Programador;Full+Stack+Developer+-+FrontEnd+-+BackEnd;Curious+Mind+-+Always+Learning;Analytical+Thinker+-+Digital+Mindset;Risk+Taker+-+Innovative+Problem+Solver;Love+to+learn+new+stuffs...&hearts;">
   </a>
 </p>
 
-<!-- portada -->
-<img src="https://github.com/jack-jimenez-dev/jack-jimenez-dev/blob/main/Portada%20perosnal_2%20chatgpt.png" alt="Jack Jimenez Banner" width="1584" height="450">
+<!-- portadaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
+<img src="https://github.com/jack-jimenez-dev/jack-jimenez-dev/blob/main/Portada%20perosnal_2%20chatgpt.png" alt="Jack Jimenez Banner" width="584" height="50">
 
 <!-- rayito continuo de colores -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -29,7 +27,7 @@
    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<br>   
+ 
     
 - **Full-Stack Development**:
 
@@ -43,7 +41,7 @@
   ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<br>
+
 
 - **Cloud**:
 
@@ -51,7 +49,6 @@
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
     
-<br>
 
 - **Softwares and Tools**:
 
@@ -60,7 +57,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
    ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-<br>
+
 
 - **Extras**:
 
@@ -71,17 +68,17 @@
 
 </p>
 
-<br>
-<br>
+
+
 
 <!-- rayito continuo de colores -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
-<br>
+
 
 <div align="center">
 
@@ -97,9 +94,7 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
+
 
 
 
@@ -111,11 +106,10 @@
 <!-- rayito continuo de coloresSSSSSSSSSSSSSSSSSSSSSSSSSS -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
-<br>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+
 <div align='left'>
 
 <ul>
@@ -127,7 +121,7 @@
 </li>
 
 <!--
-<br>
+
 
 <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
@@ -135,7 +129,7 @@
 </a>
 </li>
 
-<br>
+
 
 <li>
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
@@ -146,10 +140,9 @@
 </ul>
 </div>
 -->
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
+
 
 
 <div align='center'>
