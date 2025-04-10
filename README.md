@@ -10,7 +10,7 @@
 </p>
 
 <!-- portadaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -->
-<img src="https://github.com/jack-jimenez-dev/jack-jimenez-dev/blob/main/Portada%20perosnal_2%20chatgpt.png" alt="Jack Jimenez Banner" width="584" height="50">
+<img src="https://github.com/jack-jimenez-dev/jack-jimenez-dev/blob/main/Portada-JackJimenez.png" alt="Jack Jimenez Banner" width="1200" height="250">    
 
 <!-- rayito continuo de colores -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
